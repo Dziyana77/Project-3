@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+h1,h2{
+    text-align: center;
+    color: #2c323d;
+}
+
+.form-one{
+    margin-top: 7%;
+    font-size: 20px;
+}
+
+.form-two{
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+#result1{
+    font-size: 17x;
+    color: tomato;
+}
+
+#result2{
+    font-size: 17x;
+    color: tomato;
+}
+
+.btn1{
+    margin-bottom: 2%;
+}
+
+.btn2{
+    margin-bottom: 2%;
+}
